@@ -29,7 +29,7 @@
   {
     "id": "105",
     "nomeLote": "Lote J",
-    "status": "entregue",
+    "status": "em_transporte",
     "temperaturaMediaC": 3.2,
     "extraviado": true
   }

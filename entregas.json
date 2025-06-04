@@ -1,0 +1,36 @@
+  [{
+    "id": "101",
+    "nomeLote": "Lote F",
+    "status": "em_transporte",
+    "temperaturaAtualC": 3,
+    "extraviado": false
+  },
+  {
+    "id": "102",
+    "nomeLote": "Lote G",
+    "status": "em_transporte",
+    "temperaturaAtualC": 2,
+    "extraviado": false
+  },
+  {
+    "id": "103",
+    "nomeLote": "Lote H",
+    "status": "entregue",
+    "temperaturaMediaC": 2.8,
+    "extraviado": false
+  },
+  {
+    "id": "104",
+    "nomeLote": "Lote I",
+    "status": "entregue",
+    "temperaturaMediaC": 3.2,
+    "extraviado": false
+  },
+  {
+    "id": "105",
+    "nomeLote": "Lote J",
+    "status": "entregue",
+    "temperaturaMediaC": 3.2,
+    "extraviado": true
+  }
+] 

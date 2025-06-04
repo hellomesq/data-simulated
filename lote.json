@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "nomeLote": "Lote A",
+    "pesoAtualKg": 20,
+    "pesoMaximoKg": 50,
+    "status": "em_processo"
+  },
+  {
+    "id": "2",
+    "nomeLote": "Lote B",
+    "pesoAtualKg": 38,
+    "pesoMaximoKg": 50,
+    "status": "em_processo"
+  },
+  {
+    "id": "3",
+    "nomeLote": "Lote C",
+    "pesoAtualKg": 15,
+    "pesoMaximoKg": 50,
+    "status": "em_processo"
+  },
+  {
+    "id": "4",
+    "nomeLote": "Lote D",
+    "pesoAtualKg": 50,
+    "pesoMaximoKg": 50,
+    "status": "para_envio"
+  },
+  {
+    "id": "5",
+    "nomeLote": "Lote E",
+    "pesoAtualKg": 50,
+    "pesoMaximoKg": 50,
+    "status": "para_envio"
+  }
+] 
